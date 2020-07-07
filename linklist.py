@@ -106,3 +106,10 @@ if __name__ == '__main__':
     ll.insert_at(0, "Figs")
     ll.insert_at(2, "Apple")
     ll.print()
+
+    
+# OUTPUT   
+# banana-->mango-->grapes-->orange-->
+# Length of the list is  4
+# banana-->mango-->orange-->
+# Figs-->banana-->Apple-->mango-->orange-->
